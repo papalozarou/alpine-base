@@ -13,15 +13,6 @@ TODO.md
 *.log
 
 # -------------------------------------
-# Docker
-# -------------------------------------
-.env
-docker-compose.yml
-docker-compose.override.yml
-compose.yml
-compose.override.yml
-
-# -------------------------------------
 # Git
 # -------------------------------------
 .git
