@@ -26,8 +26,8 @@ ARG C_USR
 ARG C_GRP
 ARG C_USR_DIR
 ARG C_RUN_DIR
-ARG C_RUN_USR
-ARG C_RUN_UID
+ARG C_RUN_USR_DIR
+ARG C_RUN_UID_DIR
 
 # ------------------------------------------------------------------------------
 # Update and upgrade Alpine, then create group "$C_GRP", with "$C_GID", and user
