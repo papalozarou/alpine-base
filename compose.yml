@@ -3,7 +3,7 @@
 # ------------------------------------------------------------------------------
 services:
   alpine-base:
-    image: ${IMG_PFX}/alpine-base-${ALP_VER}
+    image: ${IMG_PFX}/alpine-base:${ALP_VER}
     build:
       context: .
       args:
